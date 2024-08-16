@@ -1,0 +1,722 @@
+2023-06-22 00:03:32.3885 Info Message Template Auto Format enabled
+2023-06-22 00:03:32.4728 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-06-22 00:03:32.5731 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-06-22 00:03:32.5894 Info Configuration initialized.
+2023-06-22 00:03:32.6403 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-06-22 00:03:32.6438 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-06-22 00:08:30.0075 Info Message Template Auto Format enabled
+2023-06-22 00:08:30.0888 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-06-22 00:08:30.2102 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-06-22 00:08:30.2263 Info Configuration initialized.
+2023-06-22 00:08:30.2717 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-06-22 00:08:30.2730 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-06-22 00:10:03.1803 Info Message Template Auto Format enabled
+2023-06-22 00:10:03.2629 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-06-22 00:10:03.3825 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-06-22 00:10:03.3986 Info Configuration initialized.
+2023-06-22 00:10:03.4441 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-06-22 00:10:03.4451 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-06-22 00:11:32.8144 Info Message Template Auto Format enabled
+2023-06-22 00:11:32.9053 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-06-22 00:11:33.0285 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-06-22 00:11:33.0448 Info Configuration initialized.
+2023-06-22 00:11:33.1016 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-06-22 00:11:33.1053 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-06-22 00:14:09.2303 Info Message Template Auto Format enabled
+2023-06-22 00:14:09.3114 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-06-22 00:14:09.4140 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-06-22 00:14:09.4301 Info Configuration initialized.
+2023-06-22 00:14:09.4880 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-06-22 00:14:09.4900 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-06-22 00:26:51.8982 Info Message Template Auto Format enabled
+2023-06-22 00:26:51.9929 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-06-22 00:26:52.1229 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-06-22 00:26:52.1398 Info Configuration initialized.
+2023-06-22 00:26:52.1906 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-06-22 00:26:52.1915 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-08-13 09:28:59.0731 Info Message Template Auto Format enabled
+2023-08-13 09:28:59.1552 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-08-13 09:28:59.2562 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-08-13 09:28:59.2716 Info Configuration initialized.
+2023-08-13 09:28:59.3179 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-08-13 09:28:59.3189 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-08-13 12:35:32.3927 Info Message Template Auto Format enabled
+2023-08-13 12:35:32.4831 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-08-13 12:35:32.6044 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-08-13 12:35:32.6196 Info Configuration initialized.
+2023-08-13 12:35:32.6636 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-08-13 12:35:32.6644 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-08-21 17:24:32.9429 Info Message Template Auto Format enabled
+2023-08-21 17:24:33.0244 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-08-21 17:24:33.1209 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-08-21 17:24:33.1354 Info Configuration initialized.
+2023-08-21 17:24:33.1838 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-08-21 17:24:33.1854 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-08-28 07:33:50.5284 Info Message Template Auto Format enabled
+2023-08-28 07:33:50.6537 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-08-28 07:33:50.7776 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-08-28 07:33:50.7940 Info Configuration initialized.
+2023-08-28 07:33:50.8419 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-08-28 07:33:50.8434 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-09-03 11:17:23.3759 Info Message Template Auto Format enabled
+2023-09-03 11:17:23.5073 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-09-03 11:17:23.6238 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-09-03 11:17:23.6404 Info Configuration initialized.
+2023-09-03 11:17:23.6938 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-09-03 11:17:23.6948 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-09-03 11:19:17.3322 Info Message Template Auto Format enabled
+2023-09-03 11:19:17.4133 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-09-03 11:19:17.5033 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-09-03 11:19:17.5192 Info Configuration initialized.
+2023-09-03 11:19:17.5666 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-09-03 11:19:17.5677 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-09-03 12:44:28.3930 Info Message Template Auto Format enabled
+2023-09-03 12:44:28.4741 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-09-03 12:44:28.5643 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-09-03 12:44:28.5797 Info Configuration initialized.
+2023-09-03 12:44:28.6221 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-09-03 12:44:28.6229 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-09-11 23:04:57.3890 Info Message Template Auto Format enabled
+2023-09-11 23:04:57.4761 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-09-11 23:04:57.5694 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-09-11 23:04:57.5855 Info Configuration initialized.
+2023-09-11 23:04:57.6337 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-09-11 23:04:57.6348 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-09-13 11:11:12.8615 Info Message Template Auto Format enabled
+2023-09-13 11:11:12.9597 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-09-13 11:11:13.0557 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-09-13 11:11:13.0712 Info Configuration initialized.
+2023-09-13 11:11:13.1160 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-09-13 11:11:13.1171 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-09-13 11:12:57.5503 Info Message Template Auto Format enabled
+2023-09-13 11:12:57.6392 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-09-13 11:12:57.7578 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-09-13 11:12:57.7725 Info Configuration initialized.
+2023-09-13 11:12:57.8163 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-09-13 11:12:57.8174 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-09-21 14:30:35.8674 Info Message Template Auto Format enabled
+2023-09-21 14:30:35.9576 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-09-21 14:30:36.0663 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-09-21 14:30:36.0828 Info Configuration initialized.
+2023-09-21 14:30:36.1341 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-09-21 14:30:36.1352 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-06 02:18:22.0048 Info Message Template Auto Format enabled
+2023-10-06 02:18:22.1166 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-06 02:18:22.2259 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-06 02:18:22.2427 Info Configuration initialized.
+2023-10-06 02:18:22.3000 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-06 02:18:22.3014 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-06 03:07:03.9071 Info Message Template Auto Format enabled
+2023-10-06 03:07:04.0141 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-06 03:07:04.1218 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-06 03:07:04.1376 Info Configuration initialized.
+2023-10-06 03:07:04.1944 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-06 03:07:04.1956 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-06 03:14:01.7883 Info Message Template Auto Format enabled
+2023-10-06 03:14:01.8916 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-06 03:14:02.0335 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-06 03:14:02.0503 Info Configuration initialized.
+2023-10-06 03:14:02.0993 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-06 03:14:02.1005 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-06 03:14:32.1153 Info Message Template Auto Format enabled
+2023-10-06 03:14:32.2265 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-06 03:14:32.3445 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-06 03:14:32.3619 Info Configuration initialized.
+2023-10-06 03:14:32.4118 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-06 03:14:32.4133 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-06 22:41:10.1823 Info Message Template Auto Format enabled
+2023-10-06 22:41:10.2911 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-06 22:41:10.3991 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-06 22:41:10.4158 Info Configuration initialized.
+2023-10-06 22:41:10.4681 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-06 22:41:10.4694 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-06 22:46:55.7812 Info Message Template Auto Format enabled
+2023-10-06 22:46:55.8739 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-06 22:46:55.9810 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-06 22:46:55.9983 Info Configuration initialized.
+2023-10-06 22:46:56.0442 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-06 22:46:56.0463 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-07 09:47:04.4887 Info Message Template Auto Format enabled
+2023-10-07 09:47:04.6065 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-07 09:47:04.7148 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-07 09:47:04.7316 Info Configuration initialized.
+2023-10-07 09:47:04.7878 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-07 09:47:04.7888 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-07 09:56:55.0965 Info Message Template Auto Format enabled
+2023-10-07 09:56:55.2034 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-07 09:56:55.3125 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-07 09:56:55.3315 Info Configuration initialized.
+2023-10-07 09:56:55.3837 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-07 09:56:55.3849 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 11:51:32.4607 Info Message Template Auto Format enabled
+2023-10-08 11:51:32.5798 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 11:51:32.6908 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 11:51:32.7073 Info Configuration initialized.
+2023-10-08 11:51:32.7614 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 11:51:32.7626 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 11:59:52.6157 Info Message Template Auto Format enabled
+2023-10-08 11:59:52.7240 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 11:59:52.8404 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 11:59:52.8572 Info Configuration initialized.
+2023-10-08 11:59:52.9065 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 11:59:52.9080 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:00:59.3539 Info Message Template Auto Format enabled
+2023-10-08 12:00:59.4603 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 12:00:59.5768 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:00:59.5937 Info Configuration initialized.
+2023-10-08 12:00:59.6443 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 12:00:59.6458 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:03:21.2255 Info Message Template Auto Format enabled
+2023-10-08 12:03:21.3234 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 12:03:21.4270 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:03:21.4436 Info Configuration initialized.
+2023-10-08 12:03:21.4910 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 12:03:21.4921 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:07:23.8395 Info Message Template Auto Format enabled
+2023-10-08 12:07:23.9437 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 12:07:24.0516 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:07:24.0684 Info Configuration initialized.
+2023-10-08 12:07:24.1170 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 12:07:24.1185 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:08:14.1190 Info Message Template Auto Format enabled
+2023-10-08 12:08:14.1998 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 12:08:14.3054 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:08:14.3219 Info Configuration initialized.
+2023-10-08 12:08:14.3647 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 12:08:14.3657 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:09:37.2177 Info Message Template Auto Format enabled
+2023-10-08 12:09:37.3274 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 12:09:37.4441 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:09:37.4615 Info Configuration initialized.
+2023-10-08 12:09:37.5113 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 12:09:37.5124 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:23:24.3153 Info Message Template Auto Format enabled
+2023-10-08 12:23:24.4148 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 12:23:24.5259 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:23:24.5435 Info Configuration initialized.
+2023-10-08 12:23:24.5959 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 12:23:24.5974 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:28:23.4046 Info Message Template Auto Format enabled
+2023-10-08 12:28:23.5003 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 12:28:23.6051 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:28:23.6217 Info Configuration initialized.
+2023-10-08 12:28:23.6763 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 12:28:23.6778 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:38:57.5264 Info Message Template Auto Format enabled
+2023-10-08 12:38:57.6419 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 12:38:57.7656 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 12:38:57.7829 Info Configuration initialized.
+2023-10-08 12:38:57.8404 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 12:38:57.8413 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 15:50:55.6805 Info Message Template Auto Format enabled
+2023-10-08 15:50:55.7763 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 15:50:55.8778 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 15:50:55.8941 Info Configuration initialized.
+2023-10-08 15:50:55.9471 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 15:50:55.9482 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 15:53:17.8691 Info Message Template Auto Format enabled
+2023-10-08 15:53:17.9566 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 15:53:18.0661 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 15:53:18.0830 Info Configuration initialized.
+2023-10-08 15:53:18.1320 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 15:53:18.1334 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 17:31:39.5876 Info Message Template Auto Format enabled
+2023-10-08 17:31:39.6817 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 17:31:39.7965 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 17:31:39.8122 Info Configuration initialized.
+2023-10-08 17:31:39.8630 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 17:31:39.8643 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 17:33:29.3306 Info Message Template Auto Format enabled
+2023-10-08 17:33:29.4297 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 17:33:39.8226 Info Message Template Auto Format enabled
+2023-10-08 17:33:39.9163 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 17:33:40.0257 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 17:33:40.0421 Info Configuration initialized.
+2023-10-08 17:33:40.0890 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 17:33:40.0905 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 18:15:12.6113 Info Message Template Auto Format enabled
+2023-10-08 18:15:12.7088 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 18:15:12.8212 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 18:15:12.8380 Info Configuration initialized.
+2023-10-08 18:15:12.8866 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 18:15:12.8883 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 19:35:37.9096 Info Message Template Auto Format enabled
+2023-10-08 19:35:38.0046 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-08 19:35:38.1317 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-08 19:35:38.1487 Info Configuration initialized.
+2023-10-08 19:35:38.2047 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-08 19:35:38.2057 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-22 17:22:04.9547 Info Message Template Auto Format enabled
+2023-10-22 17:22:05.0499 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-22 17:22:05.1266 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-22 17:22:05.1413 Info Configuration initialized.
+2023-10-22 17:22:05.1922 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-22 17:22:05.1965 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-22 17:22:45.7060 Info Message Template Auto Format enabled
+2023-10-22 17:22:45.7936 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-22 17:22:45.8500 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-22 17:22:45.8647 Info Configuration initialized.
+2023-10-22 17:22:45.9112 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-22 17:22:45.9127 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-23 02:47:53.8804 Info Message Template Auto Format enabled
+2023-10-23 02:47:53.9795 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-23 02:47:54.0605 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-23 02:47:54.0751 Info Configuration initialized.
+2023-10-23 02:47:54.1219 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-23 02:47:54.1231 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-23 02:53:56.9246 Info Message Template Auto Format enabled
+2023-10-23 02:53:57.0103 Info Registered target NLog.Targets.FileTarget(Name=file)
+2023-10-23 02:53:57.1145 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2023-10-23 02:53:57.1307 Info Configuration initialized.
+2023-10-23 02:53:57.1745 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2023-10-23 02:53:57.1759 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-03-31 22:42:39.8749 Info Message Template Auto Format enabled
+2024-03-31 22:42:39.9574 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-03-31 22:42:40.0611 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-03-31 22:42:40.0773 Info Configuration initialized.
+2024-03-31 22:42:40.1239 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-03-31 22:42:40.1249 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-03-31 23:37:02.0516 Info Message Template Auto Format enabled
+2024-03-31 23:37:02.1372 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-03-31 23:37:02.2204 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-03-31 23:37:02.2329 Info Configuration initialized.
+2024-03-31 23:37:02.2705 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-03-31 23:37:02.2715 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 00:11:43.3610 Info Message Template Auto Format enabled
+2024-04-01 00:11:43.4479 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-01 00:11:43.5450 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 00:11:43.5623 Info Configuration initialized.
+2024-04-01 00:11:43.6157 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-01 00:11:43.6173 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 00:28:04.1781 Info Message Template Auto Format enabled
+2024-04-01 00:28:04.2748 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-01 00:28:04.3709 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 00:28:04.3863 Info Configuration initialized.
+2024-04-01 00:28:04.4314 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-01 00:28:04.4329 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:05:22.9618 Info Message Template Auto Format enabled
+2024-04-01 01:05:23.0535 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-01 01:05:23.1673 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:05:23.1814 Info Configuration initialized.
+2024-04-01 01:05:23.2234 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-01 01:05:23.2250 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:07:37.5432 Info Message Template Auto Format enabled
+2024-04-01 01:07:37.6255 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-01 01:07:37.7267 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:07:37.7426 Info Configuration initialized.
+2024-04-01 01:07:37.7872 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-01 01:07:37.7888 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:08:36.6459 Info Message Template Auto Format enabled
+2024-04-01 01:08:36.7336 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-01 01:08:36.8517 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:08:36.8682 Info Configuration initialized.
+2024-04-01 01:08:36.9156 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-01 01:08:36.9171 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:11:46.8863 Info Message Template Auto Format enabled
+2024-04-01 01:11:46.9697 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-01 01:11:47.0673 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:11:47.0830 Info Configuration initialized.
+2024-04-01 01:11:47.1261 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-01 01:11:47.1276 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:17:57.5105 Info Message Template Auto Format enabled
+2024-04-01 01:17:57.5934 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-01 01:17:57.6905 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:17:57.7067 Info Configuration initialized.
+2024-04-01 01:17:57.7516 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-01 01:17:57.7530 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:19:48.7482 Info Message Template Auto Format enabled
+2024-04-01 01:19:48.8436 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-01 01:19:48.9418 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:19:48.9578 Info Configuration initialized.
+2024-04-01 01:19:49.0037 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-01 01:19:49.0053 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:46:28.0749 Info Message Template Auto Format enabled
+2024-04-01 01:46:28.1652 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-01 01:46:28.2599 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:46:28.2754 Info Configuration initialized.
+2024-04-01 01:46:28.3195 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-01 01:46:28.3209 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:50:36.4608 Info Message Template Auto Format enabled
+2024-04-01 01:50:36.5618 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-01 01:50:36.6570 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:50:36.6723 Info Configuration initialized.
+2024-04-01 01:50:36.7163 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-01 01:50:36.7178 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:53:01.4740 Info Message Template Auto Format enabled
+2024-04-01 01:53:01.5661 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-01 01:53:01.6677 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:53:01.6842 Info Configuration initialized.
+2024-04-01 01:53:01.7280 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-01 01:53:01.7294 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:56:40.3906 Info Message Template Auto Format enabled
+2024-04-01 01:56:40.4837 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-01 01:56:40.6027 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 01:56:40.6168 Info Configuration initialized.
+2024-04-01 01:56:40.6598 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-01 01:56:40.6611 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 02:04:20.3883 Info Message Template Auto Format enabled
+2024-04-01 02:04:20.4750 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-01 02:04:20.5740 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-01 02:04:20.5902 Info Configuration initialized.
+2024-04-01 02:04:20.6355 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-01 02:04:20.6371 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 16:49:31.4099 Info Message Template Auto Format enabled
+2024-04-06 16:49:31.5175 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-06 16:49:31.6242 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 16:49:31.6406 Info Configuration initialized.
+2024-04-06 16:49:31.6937 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-06 16:49:31.6946 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:11:36.1261 Info Message Template Auto Format enabled
+2024-04-06 17:11:36.2103 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-06 17:11:36.2610 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:11:36.2755 Info Configuration initialized.
+2024-04-06 17:11:36.3207 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-06 17:11:36.3219 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:15:08.5371 Info Message Template Auto Format enabled
+2024-04-06 17:15:08.6238 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-06 17:15:08.6800 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:15:08.6945 Info Configuration initialized.
+2024-04-06 17:15:08.7410 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-06 17:15:08.7427 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:23:43.4411 Info Message Template Auto Format enabled
+2024-04-06 17:23:43.5342 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-06 17:23:43.5911 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:23:43.6052 Info Configuration initialized.
+2024-04-06 17:23:43.6501 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-06 17:23:43.6516 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:31:41.0131 Info Message Template Auto Format enabled
+2024-04-06 17:31:41.1006 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-06 17:31:41.1609 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:31:41.1753 Info Configuration initialized.
+2024-04-06 17:31:41.2166 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-06 17:31:41.2179 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:33:29.9619 Info Message Template Auto Format enabled
+2024-04-06 17:33:30.0500 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-06 17:33:30.1067 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:33:30.1202 Info Configuration initialized.
+2024-04-06 17:33:30.1615 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-06 17:33:30.1631 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:34:46.6668 Info Message Template Auto Format enabled
+2024-04-06 17:34:46.7553 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-06 17:34:46.8312 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:34:46.8459 Info Configuration initialized.
+2024-04-06 17:34:46.8952 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-06 17:34:46.8961 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:35:29.5149 Info Message Template Auto Format enabled
+2024-04-06 17:35:29.6028 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-06 17:35:29.6610 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:35:29.6754 Info Configuration initialized.
+2024-04-06 17:35:29.7238 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-06 17:35:29.7248 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:36:25.3688 Info Message Template Auto Format enabled
+2024-04-06 17:36:25.4567 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-06 17:36:25.5168 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:36:25.5318 Info Configuration initialized.
+2024-04-06 17:36:25.5758 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-06 17:36:25.5772 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:36:58.7231 Info Message Template Auto Format enabled
+2024-04-06 17:36:58.8112 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-06 17:36:58.8671 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:36:58.8817 Info Configuration initialized.
+2024-04-06 17:36:58.9251 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-06 17:36:58.9266 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:42:08.0464 Info Message Template Auto Format enabled
+2024-04-06 17:42:08.1456 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-06 17:42:08.2279 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:42:08.2436 Info Configuration initialized.
+2024-04-06 17:42:08.2954 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-06 17:42:08.2966 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:43:47.4545 Info Message Template Auto Format enabled
+2024-04-06 17:43:47.5439 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-06 17:43:47.6022 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:43:47.6175 Info Configuration initialized.
+2024-04-06 17:43:47.6614 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-06 17:43:47.6628 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:46:04.4026 Info Message Template Auto Format enabled
+2024-04-06 17:46:04.5216 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-06 17:46:04.6024 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-06 17:46:04.6171 Info Configuration initialized.
+2024-04-06 17:46:04.6679 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-06 17:46:04.6689 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:17:29.9154 Info Message Template Auto Format enabled
+2024-04-07 12:17:29.9999 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-07 12:17:30.1040 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:17:30.1161 Info Configuration initialized.
+2024-04-07 12:17:30.1629 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-07 12:17:30.1641 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:19:51.3021 Info Message Template Auto Format enabled
+2024-04-07 12:19:51.3892 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-07 12:19:51.4781 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:19:51.4927 Info Configuration initialized.
+2024-04-07 12:19:51.5381 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-07 12:19:51.5395 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:26:22.7427 Info Message Template Auto Format enabled
+2024-04-07 12:26:22.8335 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-07 12:26:22.9305 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:26:22.9464 Info Configuration initialized.
+2024-04-07 12:26:22.9942 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-07 12:26:22.9957 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:26:39.0533 Info Message Template Auto Format enabled
+2024-04-07 12:26:39.1435 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-07 12:26:39.2398 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:26:39.2565 Info Configuration initialized.
+2024-04-07 12:26:39.3043 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-07 12:26:39.3055 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:26:42.4653 Info Message Template Auto Format enabled
+2024-04-07 12:26:42.5606 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-07 12:26:42.6752 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:26:42.6988 Info Configuration initialized.
+2024-04-07 12:26:42.7534 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-07 12:26:42.7548 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:27:01.7941 Info Message Template Auto Format enabled
+2024-04-07 12:27:01.8829 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-07 12:27:01.9929 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:27:02.0089 Info Configuration initialized.
+2024-04-07 12:27:02.0546 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-07 12:27:02.0556 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:43:34.0045 Info Message Template Auto Format enabled
+2024-04-07 12:43:34.1036 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-07 12:43:34.2188 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:43:34.2347 Info Configuration initialized.
+2024-04-07 12:43:34.2806 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-07 12:43:34.2820 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:56:26.4118 Info Message Template Auto Format enabled
+2024-04-07 12:56:26.5251 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-07 12:56:26.6247 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 12:56:26.6411 Info Configuration initialized.
+2024-04-07 12:56:26.6929 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-07 12:56:26.6939 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 13:46:47.4432 Info Message Template Auto Format enabled
+2024-04-07 13:46:47.5456 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-07 13:46:47.6432 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 13:46:47.6560 Info Configuration initialized.
+2024-04-07 13:46:47.7096 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-07 13:46:47.7110 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 13:50:45.7183 Info Message Template Auto Format enabled
+2024-04-07 13:50:45.8073 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-07 13:50:45.9171 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 13:50:45.9331 Info Configuration initialized.
+2024-04-07 13:50:45.9798 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-07 13:50:45.9813 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 13:59:28.8940 Info Message Template Auto Format enabled
+2024-04-07 13:59:28.9886 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-07 13:59:29.0961 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 13:59:29.1123 Info Configuration initialized.
+2024-04-07 13:59:29.1584 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-07 13:59:29.1599 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 14:03:08.9915 Info Message Template Auto Format enabled
+2024-04-07 14:03:09.0843 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-07 14:03:09.1887 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 14:03:09.2053 Info Configuration initialized.
+2024-04-07 14:03:09.2539 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-07 14:03:09.2553 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 15:24:25.2334 Info Message Template Auto Format enabled
+2024-04-07 15:24:25.3243 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-07 15:24:25.4383 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 15:24:25.4583 Info Configuration initialized.
+2024-04-07 15:24:25.5218 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-07 15:24:25.5241 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 23:48:07.7325 Info Message Template Auto Format enabled
+2024-04-07 23:48:07.8517 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-07 23:48:07.9683 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 23:48:07.9836 Info Configuration initialized.
+2024-04-07 23:48:08.0357 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-07 23:48:08.0367 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 23:49:22.8415 Info Message Template Auto Format enabled
+2024-04-07 23:49:22.9467 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-07 23:49:23.0728 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-07 23:49:23.0885 Info Configuration initialized.
+2024-04-07 23:49:23.1339 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-07 23:49:23.1351 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 15:22:34.1965 Info Message Template Auto Format enabled
+2024-04-14 15:22:34.3323 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 15:22:34.4545 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 15:22:34.4712 Info Configuration initialized.
+2024-04-14 15:22:34.5253 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 15:22:34.5263 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 16:46:40.2843 Info Message Template Auto Format enabled
+2024-04-14 16:46:40.3807 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 16:46:40.4832 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 16:46:40.4987 Info Configuration initialized.
+2024-04-14 16:46:40.5462 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 16:46:40.5480 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 16:50:41.1146 Info Message Template Auto Format enabled
+2024-04-14 16:50:41.1999 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 16:50:41.3168 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 16:50:41.3317 Info Configuration initialized.
+2024-04-14 16:50:41.3754 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 16:50:41.3764 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 16:59:04.1612 Info Message Template Auto Format enabled
+2024-04-14 16:59:04.2577 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 16:59:04.3792 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 16:59:04.3960 Info Configuration initialized.
+2024-04-14 16:59:04.4515 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 16:59:04.4527 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 18:12:32.8837 Info Message Template Auto Format enabled
+2024-04-14 18:12:32.9947 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 18:12:33.1226 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 18:12:33.1391 Info Configuration initialized.
+2024-04-14 18:12:33.1924 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 18:12:33.1936 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 18:42:40.2835 Info Message Template Auto Format enabled
+2024-04-14 18:42:40.3732 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 18:42:40.4758 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 18:42:40.4907 Info Configuration initialized.
+2024-04-14 18:42:40.5411 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 18:42:40.5424 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 19:25:58.5684 Info Message Template Auto Format enabled
+2024-04-14 19:25:58.6658 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 19:25:58.7920 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 19:25:58.8089 Info Configuration initialized.
+2024-04-14 19:25:58.8636 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 19:25:58.8645 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 20:23:26.8146 Info Message Template Auto Format enabled
+2024-04-14 20:23:26.9323 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 20:23:27.0441 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 20:23:27.0605 Info Configuration initialized.
+2024-04-14 20:23:27.1102 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 20:23:27.1120 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 20:30:15.3647 Info Message Template Auto Format enabled
+2024-04-14 20:30:15.4584 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 20:30:15.5899 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 20:30:15.6058 Info Configuration initialized.
+2024-04-14 20:30:15.6538 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 20:30:15.6549 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 20:32:18.5156 Info Message Template Auto Format enabled
+2024-04-14 20:32:18.6035 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 20:32:18.7349 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 20:32:18.7510 Info Configuration initialized.
+2024-04-14 20:32:18.7991 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 20:32:18.8003 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 20:40:37.7164 Info Message Template Auto Format enabled
+2024-04-14 20:40:37.8116 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 20:40:37.9238 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 20:40:37.9401 Info Configuration initialized.
+2024-04-14 20:40:37.9895 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 20:40:37.9906 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 20:43:44.9617 Info Message Template Auto Format enabled
+2024-04-14 20:43:45.0556 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 20:43:45.1832 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 20:43:45.1991 Info Configuration initialized.
+2024-04-14 20:43:45.2528 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 20:43:45.2538 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:06:37.4573 Info Message Template Auto Format enabled
+2024-04-14 21:06:37.5654 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 21:06:37.6887 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:06:37.7048 Info Configuration initialized.
+2024-04-14 21:06:37.7540 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 21:06:37.7551 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:09:57.5612 Info Message Template Auto Format enabled
+2024-04-14 21:09:57.6548 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 21:09:57.7959 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:09:57.8126 Info Configuration initialized.
+2024-04-14 21:09:57.8629 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 21:09:57.8642 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:10:14.4122 Info Message Template Auto Format enabled
+2024-04-14 21:10:14.5087 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 21:10:14.6297 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:10:14.6445 Info Configuration initialized.
+2024-04-14 21:10:14.6911 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 21:10:14.6926 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:24:54.0847 Info Message Template Auto Format enabled
+2024-04-14 21:24:54.1823 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 21:24:54.2946 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:24:54.3107 Info Configuration initialized.
+2024-04-14 21:24:54.3672 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 21:24:54.3684 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:26:54.2998 Info Message Template Auto Format enabled
+2024-04-14 21:26:54.3901 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 21:26:54.5083 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:26:54.5251 Info Configuration initialized.
+2024-04-14 21:26:54.5763 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 21:26:54.5773 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:28:05.6762 Info Message Template Auto Format enabled
+2024-04-14 21:28:05.7651 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 21:28:05.8771 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:28:05.8932 Info Configuration initialized.
+2024-04-14 21:28:05.9446 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 21:28:05.9456 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:29:17.7737 Info Message Template Auto Format enabled
+2024-04-14 21:29:17.8697 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 21:29:18.0028 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:29:18.0190 Info Configuration initialized.
+2024-04-14 21:29:18.0710 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 21:29:18.0720 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:35:14.0404 Info Message Template Auto Format enabled
+2024-04-14 21:35:14.1386 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 21:35:14.2514 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:35:14.2683 Info Configuration initialized.
+2024-04-14 21:35:14.3171 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 21:35:14.3182 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:36:36.1045 Info Message Template Auto Format enabled
+2024-04-14 21:36:36.1944 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 21:36:36.3093 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:36:36.3258 Info Configuration initialized.
+2024-04-14 21:36:36.3772 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 21:36:36.3783 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:45:28.8037 Info Message Template Auto Format enabled
+2024-04-14 21:45:28.9035 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 21:45:29.0158 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:45:29.0324 Info Configuration initialized.
+2024-04-14 21:45:29.0804 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 21:45:29.0815 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:47:57.8205 Info Message Template Auto Format enabled
+2024-04-14 21:47:57.9316 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 21:47:58.0502 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:47:58.0671 Info Configuration initialized.
+2024-04-14 21:47:58.1159 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 21:47:58.1171 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:55:34.2366 Info Message Template Auto Format enabled
+2024-04-14 21:55:34.3317 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 21:55:34.4573 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:55:34.4730 Info Configuration initialized.
+2024-04-14 21:55:34.5198 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 21:55:34.5210 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:57:03.7515 Info Message Template Auto Format enabled
+2024-04-14 21:57:03.8478 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 21:57:03.9606 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:57:03.9763 Info Configuration initialized.
+2024-04-14 21:57:04.0269 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 21:57:04.0281 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:57:42.8986 Info Message Template Auto Format enabled
+2024-04-14 21:57:42.9905 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 21:57:43.1222 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:57:43.1382 Info Configuration initialized.
+2024-04-14 21:57:43.1836 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 21:57:43.1848 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:58:16.1860 Info Message Template Auto Format enabled
+2024-04-14 21:58:16.2908 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 21:58:16.4097 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 21:58:16.4257 Info Configuration initialized.
+2024-04-14 21:58:16.4729 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 21:58:16.4740 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 22:01:22.5945 Info Message Template Auto Format enabled
+2024-04-14 22:01:22.6991 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 22:01:22.8127 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 22:01:22.8291 Info Configuration initialized.
+2024-04-14 22:01:22.8789 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 22:01:22.8799 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 22:40:15.9288 Info Message Template Auto Format enabled
+2024-04-14 22:40:16.0405 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 22:40:16.1792 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 22:40:16.1956 Info Configuration initialized.
+2024-04-14 22:40:16.2470 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 22:40:16.2485 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 22:42:40.2846 Info Message Template Auto Format enabled
+2024-04-14 22:42:40.3723 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 22:42:40.4888 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 22:42:40.5047 Info Configuration initialized.
+2024-04-14 22:42:40.5495 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 22:42:40.5507 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 22:51:16.2989 Info Message Template Auto Format enabled
+2024-04-14 22:51:16.3997 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 22:51:16.5172 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 22:51:16.5331 Info Configuration initialized.
+2024-04-14 22:51:16.5785 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 22:51:16.5797 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 22:52:45.5762 Info Message Template Auto Format enabled
+2024-04-14 22:52:45.6746 Info Registered target NLog.Targets.FileTarget(Name=file)
+2024-04-14 22:52:45.7904 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
+2024-04-14 22:52:45.8063 Info Configuration initialized.
+2024-04-14 22:52:45.8515 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.0.1813. Product version: 5.2.0+eed5f76d158dbcaef9326f7a0e1c281adad171e8. GlobalAssemblyCache: False
+2024-04-14 22:52:45.8525 Info Validating config: TargetNames=file, ConfigItems=12, FilePath=/Users/tiberio40/Documents/Tesis/walletapp/WalletApp/bin/Debug/net6.0/NLog.config
